@@ -34,12 +34,12 @@
                                         </div>
                                         <div class="form-group">
                                             <label for="exampleInputPassword1">Last Name</label>
-                                            <input type="email" name="last_name" class="form-control" value="" id="exampleInputPassword1" placeholder="Last Name" />
+                                            <input type="text" name="last_name" class="form-control" value="" id="exampleInputPassword1" placeholder="Last Name" />
                                         </div>
 
                                         <div class="form-group">
                                             <label for="exampleInputPassword1">Email</label>
-                                            <input type="text" name="email" class="form-control"  value="" id="exampleInputPassword1" placeholder="Email" />
+                                            <input type="email" name="email" class="form-control"  value="" id="exampleInputPassword1" placeholder="Email" />
                                         </div>
 
                                         <div class="form-group">

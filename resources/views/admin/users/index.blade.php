@@ -47,7 +47,7 @@
                                                 <td>{{$vendor->email}}</td>
                                                 <td>{{$vendor->last_login_date}}</td>
                                                 <td>
-                                                    <a class="btn btn-primary" href="{{route('vendor.edit',$vendor->id) }}">Edit</a>
+                                                    <a class="btn btn-primary" href="{{route('user.edit',$vendor->id) }}">Edit</a>
                                                     <a class="btn btn-danger" href="" >Delete</a>
                                                 </td>
                                             </tr>
